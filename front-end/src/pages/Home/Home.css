@@ -1,0 +1,11 @@
+.home {
+    flex: 1;
+}
+
+h1{
+    color: white;
+}
+
+.card{
+    background-color: #5C5C70;
+}
